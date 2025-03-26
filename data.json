@@ -1,0 +1,46 @@
+[
+  {
+      "id": 1,
+      "name": "Laptop",
+      "price": 1200,
+      "category": "Electronics",
+      "image": "https://img.freepik.com/free-photo/laptop-stone-surface-sea-background_1232-430.jpg"
+  },
+  {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 800,
+      "category": "Electronics",
+      "image": "https://fs.npstatic.com/userfiles/7687254/image/Best_Smartphones_October_2023-w1400h788.jpg"
+  },
+  {
+      "id": 3,
+      "name": "Tablet",
+      "price": 500,
+      "category": "Electronics",
+      "image": "https://i.pcmag.com/imagery/roundup-products/01LIrUDcuoBX08JLdnlJooW.fit_lim.size_919x518.v1716920959.jpg"
+  },
+  {
+      "id": 4,
+      "name": "Headphones",
+      "price": 200,
+      "category": "Accessories",
+      "image": "https://t4.ftcdn.net/jpg/05/81/81/35/360_F_581813566_e4ywdbkTYvxMbcDOL6ejx5WcYdySQeZj.jpg"
+  },
+  {
+      "id": 5,
+      "name": "Smartwatch",
+      "price": 300,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/61ZjlBOp+rL.jpg"
+  },
+  {
+      "id": 6,
+      "name": "Camera",
+      "price": 1500,
+      "category": "Photography",
+      "image": "https://www.iphotography.com/wp-content/uploads/2023/06/Best-Cameras-for-Professional-Photography-6.jpg"
+  }
+]
+
+   
